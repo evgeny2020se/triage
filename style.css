@@ -1,0 +1,22 @@
+form {
+	display: flex;
+	flex-direction: column;
+	width: 280px;
+	margin: 8px;
+}
+
+form input,label {
+	margin-top: 8px;
+}
+
+table tr th {
+	background: #A9A9A9;
+}
+
+table tr td {
+	background: #D3D3D3;
+}
+
+table tr, td {
+	padding: 8px;
+}
